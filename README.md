@@ -6,7 +6,7 @@
     
     https://github.com/nixzhu/dev-blog
     
-    http://https://github.com/tangqiaoboy/iOSBlogCN
+    https://github.com/tangqiaoboy/iOSBlogCN
 
  - iOS优化实践
     
@@ -15,12 +15,12 @@
  - 常用库
     - iOS
     
-    https://github.com/cjwirth/awesome-ios-ui
+    	https://github.com/cjwirth/awesome-ios-ui
     
-    https://github.com/vsouza/awesome-ios
+    	https://github.com/vsouza/awesome-ios
     - Swift
     
-    https://github.com/matteocrippa/awesome-swift
+    	https://github.com/matteocrippa/awesome-swift
 
 
 ## 常用库 ##
@@ -127,17 +127,17 @@
  
     - 左右滑动，抽屉导航
     
-    https://github.com/mutualmobile/MMDrawerController
+    	https://github.com/mutualmobile/MMDrawerController
     
-    https://github.com/pkluz/PKRevealController
+    	https://github.com/pkluz/PKRevealController
     
     - 仿QQ首页左右滑动
     
-    https://github.com/romaonthego/RESideMenu
+    	https://github.com/romaonthego/RESideMenu
     
     - 左右滑动，抽屉导航（iOS7，支持滑动特效，左右拖动会闪烁）
     
-    https://github.com/ECSlidingViewController/ECSlidingViewController
+    	https://github.com/ECSlidingViewController/ECSlidingViewController
     
  - UICollectionView 实现折叠菜单
  
@@ -163,11 +163,11 @@
  
      - SQLite
      
-    https://github.com/ccgus/fmdb
+    	https://github.com/ccgus/fmdb
     
      - Core Data
      
-    https://github.com/magicalpanda/MagicalRecord
+    	https://github.com/magicalpanda/MagicalRecord
 
  - block扩展（缺UIButton扩展）
  
