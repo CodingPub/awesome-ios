@@ -13,6 +13,10 @@
     
     https://github.com/futurice/ios-good-practices
 
+ - Swfit教程
+
+    https://github.com/numbbbbb/the-swift-programming-language-in-chinese
+
  - 常用库
     - iOS
     
