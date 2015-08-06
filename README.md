@@ -1,6 +1,7 @@
 ## awesome-ios ##
 
-## 博客 ##
+博客
+==
 
  - iOS/Mac开发博客
     
@@ -23,7 +24,9 @@
     	https://github.com/matteocrippa/awesome-swift
 
 
-## 常用库 ##
+常用库
+==
+
 - 分级日志
     
     https://github.com/Coneboy-k/KKLog
@@ -60,9 +63,9 @@
 
 - 操作 NSLayoutConstraints
     
-    http://https://github.com/SnapKit/Masonry
+    https://github.com/SnapKit/Masonry
     
-    http://https://github.com/SnapKit/SnapKit
+    https://github.com/SnapKit/SnapKit
 
 - 富文本
     
@@ -89,7 +92,9 @@
     https://github.com/TheLevelUp/ZXingObjC
 
 
-## 进阶库 ##
+进阶库
+==
+
  - 空页面引导
     
     https://github.com/dzenbot/DZNEmptyDataSet
@@ -121,7 +126,8 @@
         https://github.com/facebook/Shimmer
         
         
-## 备用库 ##
+备用库
+==
 
  - 抽屉导航
  
@@ -192,7 +198,8 @@
     https://github.com/facebook/AsyncDisplayKit
     
 
-## 其他 ##
+其他
+==
 
  - LLDB 调试命令
  
