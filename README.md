@@ -35,7 +35,7 @@
     
     https://github.com/rs/SDWebImage
 
-- 自动计算UITableViewCell高度 （注：iOS6多行label需要设置preferredMaxLayoutWidth）
+- 自动计算UITableViewCell高度（注：iOS6多行label需要设置preferredMaxLayoutWidth）
     
     https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
 
@@ -105,10 +105,6 @@
 
  - 动画特效
 
-     - 灌水动画
-        
-        https://github.com/dsxNiubility/SXWaveAnimate
-        
      - Facebook动画库 pop
         
         https://github.com/facebook/pop
@@ -117,13 +113,17 @@
         
         https://github.com/schneiderandre/popping
         
-     - 动画特效，支持StoryBoard配置
-     
-        https://github.com/CanvasPod/Canvas
+     - 灌水动画
+        
+        https://github.com/dsxNiubility/SXWaveAnimate
         
      - Shimmer 闪光特效
      
         https://github.com/facebook/Shimmer
+        
+     - 动画特效，支持StoryBoard配置
+     
+        https://github.com/CanvasPod/Canvas
         
         
 备用库
