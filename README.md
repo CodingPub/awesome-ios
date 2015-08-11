@@ -108,6 +108,9 @@
     https://github.com/ViccAlexander/Chameleon
 
  - 动画特效
+     - 全屏幕拖动返回导航，动画流畅（iOS7+）
+        
+        https://github.com/forkingdog/FDFullscreenPopGesture
 
      - Facebook动画库 pop
         
