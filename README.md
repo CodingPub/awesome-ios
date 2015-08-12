@@ -43,6 +43,10 @@
     
     https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
 
+- 实现隐藏View时自动折叠View相关的布局属性
+
+    https://github.com/forkingdog/UIView-FDCollapsibleConstraints
+    
 - 下拉刷新，上拉加载更多
     
     https://github.com/CoderMJLee/MJRefresh
