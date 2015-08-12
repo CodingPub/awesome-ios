@@ -3,222 +3,131 @@
 博客
 ==
 
- - iOS/Mac开发博客
-    
-    https://github.com/nixzhu/dev-blog
-    
-    https://github.com/tangqiaoboy/iOSBlogCN
+ - iOS/Mac开发博客 [dev-blog](https://github.com/nixzhu/dev-blog)、[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
 
- - iOS优化实践
-    
-    https://github.com/futurice/ios-good-practices
+ - iOS优化实践 [ios-good-practices](https://github.com/futurice/ios-good-practices)
 
- - Swfit教程
-
-    https://github.com/numbbbbb/the-swift-programming-language-in-chinese
+ - [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
  - 常用库
-    - iOS
-    
-    	https://github.com/cjwirth/awesome-ios-ui
-    
-    	https://github.com/vsouza/awesome-ios
-    - Swift
-    
-    	https://github.com/matteocrippa/awesome-swift
+ 
+    - iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)
+        
+    - Swift: [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
 
 
 常用库
 ==
 
-- 分级日志
-    
-    https://github.com/Coneboy-k/KKLog
+- 分级日志 [KKLog](https://github.com/Coneboy-k/KKLog)    
 
-- 图片缓存
+- 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
     
-    https://github.com/rs/SDWebImage
+- 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 
-- 自动计算UITableViewCell高度（注：iOS6多行label需要设置preferredMaxLayoutWidth）
+	Tips：iOS6多行label需要设置preferredMaxLayoutWidth
     
-    https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
+- 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
+    
+- 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 
-- 实现隐藏View时自动折叠View相关的布局属性
+- 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
+    
+- 模型解析 [MJExtension](https://github.com/CoderMJLee/MJExtension)
+    
+- 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
+    
+- 相册图片选取 [DoImagePickerController](https://github.com/donobono/DoImagePickerController)
+    
+- 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
+    
+- 富文本 [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
+    
+- 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+    
+- AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
+    
+- 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
-    https://github.com/forkingdog/UIView-FDCollapsibleConstraints
+	Tips：使用时整合，MB为主，增加单例
     
-- 下拉刷新，上拉加载更多
-    
-    https://github.com/CoderMJLee/MJRefresh
-
-- 网络库
-    
-    https://github.com/AFNetworking/AFNetworking
-    
-    https://github.com/pokeb/asi-http-request
-
-- 模型解析
-    
-    https://github.com/CoderMJLee/MJExtension
-
-- 分页排列 酷炫视图切换
-    
-    https://github.com/nicklockwood/iCarousel
-
-- 相册图片选取
-    
-    https://github.com/donobono/DoImagePickerController
-
-- 操作 NSLayoutConstraints
-    
-    https://github.com/SnapKit/Masonry
-    
-    https://github.com/SnapKit/SnapKit
-
-- 富文本
-    
-    https://github.com/TTTAttributedLabel/TTTAttributedLabel
-
-- 滚动文本
-    
-    https://github.com/cbpowell/MarqueeLabel
-
-- AppStore评价引导
-    
-    https://github.com/nicklockwood/iRate
-    
-    https://github.com/arashpayan/appirater
-
-- 提示框 （待整合，MB为主，增加单例）
-    
-    https://github.com/jdg/MBProgressHUD
-    
-    https://github.com/TransitApp/SVProgressHUD
-
-- 一维码、二维码编码、解码
-    
-    https://github.com/TheLevelUp/ZXingObjC
+- 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
+  
 
 
 进阶库
 ==
 
- - 空页面引导
+ - 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
     
-    https://github.com/dzenbot/DZNEmptyDataSet
-
- - 扁平色调生成器
+ - 扁平色调生成器 [Chameleon](https://github.com/ViccAlexander/Chameleon)
     
-    https://github.com/ViccAlexander/Chameleon
-
  - 动画特效
-     - 全屏幕拖动返回导航，动画流畅（iOS7+）
-        
-        https://github.com/forkingdog/FDFullscreenPopGesture
 
-     - Facebook动画库 pop
+     - 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
         
-        https://github.com/facebook/pop
+        Tips: 动画流畅， iOS7+
         
-        pop examples
+     - Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping))
         
-        https://github.com/schneiderandre/popping
+     - 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
         
-     - 灌水动画
-        
-        https://github.com/dsxNiubility/SXWaveAnimate
-        
-     - Shimmer 闪光特效
+     - 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
      
-        https://github.com/facebook/Shimmer
-        
-     - 动画特效，支持StoryBoard配置
+     - 动画特效，支持StoryBoard配置 [Canvas](https://github.com/CanvasPod/Canvas)
      
-        https://github.com/CanvasPod/Canvas
-        
-        
+
+     
 备用库
 ==
 
  - 抽屉导航
  
-    - 左右滑动，抽屉导航
+    - 左右滑动，抽屉导航 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)、[PKRevealController](https://github.com/pkluz/PKRevealController)
     
-    	https://github.com/mutualmobile/MMDrawerController
+    - 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
     
-    	https://github.com/pkluz/PKRevealController
+    - 左右滑动，抽屉导航（iOS7，支持滑动特效，左右拖动会闪烁）[ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
     
-    - 仿QQ首页左右滑动
-    
-    	https://github.com/romaonthego/RESideMenu
-    
-    - 左右滑动，抽屉导航（iOS7，支持滑动特效，左右拖动会闪烁）
-    
-    	https://github.com/ECSlidingViewController/ECSlidingViewController
-    
- - UICollectionView 实现折叠菜单
+ - UICollectionView 实现折叠菜单 [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)
  
-    https://github.com/ChenYilong/CollectionViewClassifyMenu
-
- - UITableviewcell 左右滑动扩展
+ - UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
  
-    https://github.com/CEWendel/SWTableViewCell
+ - 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)
  
- - 统计图表
+ - 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
  
-    https://github.com/kevinzhow/PNChart
-
- - 图像处理
+ - 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
  
-    https://github.com/BradLarson/GPUImage
-
- - 音频播放
- 
-    https://github.com/jessesquires/JSQSystemSoundPlayer
-
  - 数据处理
  
-     - SQLite
+     - SQLite [fmdb](https://github.com/ccgus/fmdb)
      
-    	https://github.com/ccgus/fmdb
-    
-     - Core Data
+     - Core Data [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
      
-    	https://github.com/magicalpanda/MagicalRecord
-
- - block扩展（缺UIButton扩展）
- 
-    https://github.com/zwaldowski/BlocksKit
-
- - 聊天界面
- 
-    https://github.com/jessesquires/JSQMessagesViewController
+ - block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
+ 	
+ 	Tips: 缺UIButton扩展
     
-    https://github.com/slackhq/SlackTextViewController
-
- - WebSocket
+ - 聊天界面 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
  
-    https://github.com/square/SocketRocket
-
- - 扁平化控件
+ - WebSocket [SocketRocket](https://github.com/square/SocketRocket)
  
-    https://github.com/Grouper/FlatUIKit
-
- - UIView 异步加载
+ - 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
  
-    https://github.com/facebook/AsyncDisplayKit
-    
+ - UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
+ 
+
+
 
 其他
 ==
 
- - LLDB 调试命令
+ - LLDB 调试命令 [chisel](https://github.com/facebook/chisel)
  
-    https://github.com/facebook/chisel
+ - [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)
+ 
 
- - CocoaPods
- 
-    https://github.com/CocoaPods/CocoaPods
-    
-    https://github.com/CocoaPods/Specs
-    
+
+
