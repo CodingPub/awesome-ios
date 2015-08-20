@@ -4,7 +4,7 @@
 ==
 
 * iOS/Mac开发博客 [dev-blog](https://github.com/nixzhu/dev-blog)、[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
-* iOS优化实践 [objc中国([github](https://github.com/objccn/articles))](http://objccn.io/)、[ios-good-practices](https://github.com/futurice/ios-good-practices)
+* iOS优化实践 [objc中国](http://objccn.io/)([github](https://github.com/objccn/articles))、[ios-good-practices](https://github.com/futurice/ios-good-practices)
 * [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * 常用库
    * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)        
@@ -43,7 +43,7 @@
 * 扁平色调生成器 [Chameleon](https://github.com/ViccAlexander/Chameleon)
 * 动画特效
     * 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
-	  <br>Tips：动画流畅， iOS7+    
+      <br>Tips：动画流畅， iOS7+    
     * Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping))
     * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
     * 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
