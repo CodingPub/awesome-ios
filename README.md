@@ -66,6 +66,7 @@
 * 数据处理
     * SQLite [fmdb](https://github.com/ccgus/fmdb)
     * Core Data [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+    * [RSA算法](https://github.com/reejosamuel/RSA)
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
   <br>Tips：缺UIButton扩展
 * 聊天界面 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
