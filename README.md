@@ -23,7 +23,7 @@
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
-* 模型解析 [MJExtension](https://github.com/CoderMJLee/MJExtension)
+* 模型解析 [MJExtension](https://github.com/Orion777/MJExtension)([原库](https://github.com/CoderMJLee/MJExtension))
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
 * 相册图片选取 [DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
