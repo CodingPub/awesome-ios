@@ -15,7 +15,7 @@
 常用库
 ==
 
-* 分级日志 [KKLog](https://github.com/Orion777/KKLog)
+* 分级日志 [BZLog](https://github.com/Orion777/BZLog)
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)    
 * 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
   <br>Tips：iOS6多行label需要设置preferredMaxLayoutWidth
