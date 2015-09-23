@@ -80,7 +80,7 @@
 ==
 
 * LLDB 调试命令 [chisel](https://github.com/facebook/chisel)
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/Orion777/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) 
 * [Markdown语法](https://github.com/guodongxiaren/README)
     
