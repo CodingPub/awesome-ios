@@ -64,6 +64,7 @@
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 数据处理
+    * [Base64](https://github.com/nicklockwood/Base64)
     * SQLite [fmdb](https://github.com/ccgus/fmdb)
     * Core Data [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
     * [RSA算法](https://github.com/reejosamuel/RSA)
