@@ -65,6 +65,7 @@
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 数据处理
     * [Base64](https://github.com/nicklockwood/Base64)
+    * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
     * SQLite [fmdb](https://github.com/ccgus/fmdb)
     * Core Data [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
     * [RSA算法](https://github.com/reejosamuel/RSA)
