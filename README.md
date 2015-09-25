@@ -75,6 +75,7 @@
 * 聊天界面 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
 * WebSocket [SocketRocket](https://github.com/square/SocketRocket)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
+* [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
  
     
