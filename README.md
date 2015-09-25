@@ -27,7 +27,6 @@
 * 数据处理
     * [Base64](https://github.com/nicklockwood/Base64)
     * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
-    * SQLite: [fmdb](https://github.com/ccgus/fmdb)
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
 * 相册图片选取 [DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
@@ -68,6 +67,7 @@
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 数据处理
+    * SQLite: [fmdb](https://github.com/ccgus/fmdb)
     * Core Data: [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
     * [RSA算法](https://github.com/reejosamuel/RSA)
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
