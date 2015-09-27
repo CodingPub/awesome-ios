@@ -78,6 +78,7 @@
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
+* iOS-Lua [WaxPatch](https://github.com/mmin18/WaxPatch)、[WaxPatch_X64](https://github.com/maxfong/WaxPatch_X64)
  
     
 
