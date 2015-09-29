@@ -30,7 +30,7 @@
     * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
     * [BZDES](https://github.com/Orion777/BZDES): DES and 3DES
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
-* 相册图片选取 [DoImagePickerController](https://github.com/donobono/DoImagePickerController)
+* 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
 * 富文本 [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
