@@ -63,7 +63,7 @@
    * 左右滑动，抽屉导航 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)、[PKRevealController](https://github.com/pkluz/PKRevealController)、[ECSlidingViewController (iOS7+)](https://github.com/ECSlidingViewController/ECSlidingViewController)
    <br>Tips：其中ECSlidingViewController支持滑动特效，但左右拖时动会闪烁
    * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
-* UICollectionView 实现折叠菜单 [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)
+* UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 * 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
