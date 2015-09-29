@@ -16,6 +16,7 @@
 ==
 
 * 分级日志 [BZLog](https://github.com/Orion777/BZLog)
+* [BZUtility](https://github.com/Orion777/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)    
 * 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
   <br>Tips：iOS6多行label需要设置preferredMaxLayoutWidth
