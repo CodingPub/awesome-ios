@@ -30,6 +30,7 @@
     * [GZIP](https://github.com/nicklockwood/GZIP)、[Godzippa](https://github.com/mattt/Godzippa)(gzip备用)
       Tips: GZIP和Godzippa都不支持文件夹处理
     * [ZipArchive](https://github.com/ZipArchive/ZipArchive) 文件、文件夹的压缩和解压
+    * [ZipArchive](https://github.com/mattconnolly/ZipArchive) zip文件操作
     * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
     * [BZDES](https://github.com/Orion777/BZDES): DES and 3DES
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
