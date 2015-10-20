@@ -69,6 +69,7 @@
    * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
+* [Emoji键盘](https://github.com/Orion777/BZEmojiKeyboard)
 * 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
