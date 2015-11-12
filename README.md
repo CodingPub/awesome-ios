@@ -50,6 +50,7 @@
 
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
 * 扁平色调生成器 [Chameleon](https://github.com/ViccAlexander/Chameleon)
+* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 * 动画特效
     * 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
       <br>Tips：动画流畅， iOS7+    
