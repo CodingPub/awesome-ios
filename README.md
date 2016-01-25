@@ -1,3 +1,4 @@
+
 ## awesome-ios ##
 
 博客
@@ -25,7 +26,9 @@
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
-* 模型解析 [MJExtension](https://github.com/Orion777/MJExtension)([原库](https://github.com/CoderMJLee/MJExtension))(多线程易崩溃)
+* 模型解析 [MJExtension](https://github.com/Orion777/MJExtension)([原库](https://github.com/CoderMJLee/MJExtension))
+    > 注：MJExtension多线程易崩溃
+    
 * 数据处理
     * [Base64](https://github.com/nicklockwood/Base64)
     * [GZIP](https://github.com/nicklockwood/GZIP)、[Godzippa](https://github.com/mattt/Godzippa)(gzip备用)
@@ -98,5 +101,4 @@
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) 
 * [Markdown语法](https://github.com/guodongxiaren/README)
     
-    
-    
+   
