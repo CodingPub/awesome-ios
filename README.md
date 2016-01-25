@@ -17,11 +17,12 @@
 
 * 分级日志 [BZLog](https://github.com/Orion777/BZLog)
 * [BZUtility](https://github.com/Orion777/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
-* 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)    
+* 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
 * 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
   <br>Tips：iOS6多行label需要设置preferredMaxLayoutWidth
 * 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
+* [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
 * 模型解析 [MJExtension](https://github.com/Orion777/MJExtension)([原库](https://github.com/CoderMJLee/MJExtension))
