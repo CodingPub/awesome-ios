@@ -87,6 +87,7 @@
 * 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
 * WebSocket [SocketRocket](https://github.com/square/SocketRocket)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
+* 绘制Emoji [TTGEmojiRate](https://github.com/zekunyan/TTGEmojiRate)
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
 * iOS-Lua [WaxPatch](https://github.com/mmin18/WaxPatch)、[WaxPatch_X64](https://github.com/maxfong/WaxPatch_X64)
