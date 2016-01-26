@@ -8,7 +8,7 @@
 * iOS优化实践 [objc中国](http://objccn.io/)([github](https://github.com/objccn/articles))、[ios-good-practices](https://github.com/futurice/ios-good-practices)
 * [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * 常用库
-   * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)        
+   * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)  
    * Swift: [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
 
@@ -29,7 +29,6 @@
 * 模型解析 
     * [YYModel](https://github.com/ibireme/YYModel): 线程安全
     * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
-    
 * 数据处理
     * [Base64](https://github.com/nicklockwood/Base64)
     * [GZIP](https://github.com/nicklockwood/GZIP)、[Godzippa](https://github.com/mattt/Godzippa)(gzip备用)
