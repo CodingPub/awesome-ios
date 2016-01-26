@@ -75,7 +75,7 @@
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 * [Emoji键盘](https://github.com/Orion777/BZEmojiKeyboard)
-* 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)
+* 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)、[TWRCharts](https://github.com/chasseurmic/TWRCharts)、[ANDLineChartView](https://github.com/anaglik/ANDLineChartView)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 数据处理
