@@ -23,12 +23,17 @@
   <br>Tips：iOS6多行label需要设置preferredMaxLayoutWidth
 * 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
-* [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
 * 模型解析 
     * [YYModel](https://github.com/ibireme/YYModel): 线程安全
     * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
+* 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
+* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
+* 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
+* AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
+* 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
+  <br>Tips：使用时整合，MB为主，增加单例
 * 数据处理
     * [Base64](https://github.com/nicklockwood/Base64)
     * [GZIP](https://github.com/nicklockwood/GZIP)、[Godzippa](https://github.com/mattt/Godzippa)(gzip备用)
@@ -37,21 +42,13 @@
     * [ZipArchive](https://github.com/mattconnolly/ZipArchive) zip文件操作
     * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
     * [BZDES](https://github.com/Orion777/BZDES): DES and 3DES
-* 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
-* 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
-* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
-* 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
-* 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
-* AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
-* 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
-  <br>Tips：使用时整合，MB为主，增加单例
-* 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
-  
 
 
 进阶库
 ==
 
+* 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
+* [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
 * 扁平色调生成器 [Chameleon](https://github.com/ViccAlexander/Chameleon)
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
@@ -62,12 +59,15 @@
     * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
     * 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
     * 动画特效，支持StoryBoard配置 [Canvas](https://github.com/CanvasPod/Canvas)
-     
+
 
      
 备用库
 ==
 
+* 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
+* 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+* 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
 * 抽屉导航
    * 左右滑动，抽屉导航 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)、[PKRevealController](https://github.com/pkluz/PKRevealController)、[ECSlidingViewController (iOS7+)](https://github.com/ECSlidingViewController/ECSlidingViewController)
    <br>Tips：其中ECSlidingViewController支持滑动特效，但左右拖时动会闪烁
