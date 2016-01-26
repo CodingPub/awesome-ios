@@ -84,7 +84,7 @@
     * [RSA算法](https://github.com/reejosamuel/RSA)
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
   <br>Tips：缺UIButton扩展
-* 聊天界面 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
+* 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
 * WebSocket [SocketRocket](https://github.com/square/SocketRocket)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
