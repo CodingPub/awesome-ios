@@ -56,6 +56,7 @@
     * 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
       <br>Tips：动画流畅， iOS7+    
     * Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping))
+    * 转场动画 [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
     * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
     * 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
     * 动画特效，支持StoryBoard配置 [Canvas](https://github.com/CanvasPod/Canvas)
