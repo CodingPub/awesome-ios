@@ -6,6 +6,7 @@ Blog
 
 * iOS/Mac开发博客 [dev-blog](https://github.com/nixzhu/dev-blog)、[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
 * iOS优化实践 [objc中国](http://objccn.io/)([github](https://github.com/objccn/articles))、[ios-good-practices](https://github.com/futurice/ios-good-practices)
+* [iOS 开发者文档中文版](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
 * [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * 常用库
    * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)  
