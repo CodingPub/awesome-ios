@@ -43,7 +43,7 @@ UI
 * 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
-* 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+* 滚动文本(跑马灯) [Wonderful]([Wonderful](https://github.com/dsxNiubility/Wonderful))、[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
 * [Emoji键盘](https://github.com/Orion777/BZEmojiKeyboard)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
