@@ -19,7 +19,7 @@
 * 分级日志 [BZLog](https://github.com/Orion777/BZLog)
 * [BZUtility](https://github.com/Orion777/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
-* 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+* 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
   <br>Tips：iOS6多行label需要设置preferredMaxLayoutWidth
 * 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
@@ -29,7 +29,7 @@
     * [YYModel](https://github.com/ibireme/YYModel): 线程安全
     * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
 * 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
-* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
+* 操作 NSLayoutConstraints [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
 * 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
 * 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
