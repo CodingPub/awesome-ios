@@ -35,14 +35,13 @@ UI
 
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
 * 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
-* 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
-* 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
-* AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
 * 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
   <br>Tips：使用时整合，MB为主，增加单例
+* 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
+* 自定义弹框 [MMPopupView](https://github.com/adad184/MMPopupView)
+* 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
-* 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
 * 滚动文本 [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
 * [Emoji键盘](https://github.com/Orion777/BZEmojiKeyboard)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
@@ -101,6 +100,8 @@ Bridge
 Mark
 ==
 
+* AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
+* 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)
