@@ -16,8 +16,8 @@ Blog
 Base
 ==
 
-* 分级日志 [BZLog](https://github.com/Orion777/BZLog)
-* [BZUtility](https://github.com/Orion777/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
+* 分级日志 [BZLog](https://github.com/iOSCoderLin/BZLog)
+* [BZUtility](https://github.com/iOSCoderLin/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
 * 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
   <br>Tips：iOS6使用UITableView-FDTemplateLayoutCell时，多行label需要设置preferredMaxLayoutWidth
@@ -44,7 +44,7 @@ UI
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
 * 滚动文本(跑马灯) [Wonderful]([Wonderful](https://github.com/dsxNiubility/Wonderful))、[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
-* [Emoji键盘](https://github.com/Orion777/BZEmojiKeyboard)
+* [Emoji键盘](https://github.com/iOSCoderLin/BZEmojiKeyboard)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 * 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
@@ -80,7 +80,7 @@ Data
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) 文件、文件夹的压缩和解压
 * [ZipArchive](https://github.com/mattconnolly/ZipArchive) zip文件操作
 * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
-* [BZDES](https://github.com/Orion777/BZDES): DES and 3DES
+* [BZDES](https://github.com/iOSCoderLin/BZDES): DES and 3DES
 * SQLite: [fmdb](https://github.com/ccgus/fmdb)
 * Core Data: [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 * [RSA算法](https://github.com/reejosamuel/RSA)
@@ -121,7 +121,7 @@ Other
 ==
 
 * LLDB 调试命令 [chisel](https://github.com/facebook/chisel)
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/Orion777/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/iOSCoderLin/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) 
 * [Markdown语法](https://github.com/guodongxiaren/README)
     
