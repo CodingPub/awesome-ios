@@ -9,22 +9,22 @@ Blog
 * [iOS 开发者文档中文版](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
 * [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * 常用库
-   * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)  
+   * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)
    * Swift: [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
 
 Base
 ==
 
-* 分级日志 [BZLog](https://github.com/iOSCoderLin/BZLog)
-* [BZUtility](https://github.com/iOSCoderLin/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
+* 分级日志 [BZLog](https://github.com/CodingPub/BZLog)
+* [BZUtility](https://github.com/CodingPub/BZUtility) 常用类，包括文件管理、KVO消息中转、设备信息获取
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
 * 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
   <br>Tips：iOS6使用UITableView-FDTemplateLayoutCell时，多行label需要设置preferredMaxLayoutWidth
 * 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
-* 模型解析 
+* 模型解析
     * [YYModel](https://github.com/ibireme/YYModel): 线程安全
     * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
 * 操作 NSLayoutConstraints [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
@@ -34,17 +34,17 @@ Base
 UI
 ==
 
-* 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)    
+* 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
   <br>Tips：使用时整合，MB为主，增加单例
 * 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
 * 自定义弹框 [MMPopupView](https://github.com/adad184/MMPopupView)
 * 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
-* 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)    
+* 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
 * 滚动文本(跑马灯) [Wonderful]([Wonderful](https://github.com/dsxNiubility/Wonderful))、[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
-* [Emoji键盘](https://github.com/iOSCoderLin/BZEmojiKeyboard)
+* [Emoji键盘](https://github.com/CodingPub/BZEmojiKeyboard)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 * 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
@@ -54,7 +54,7 @@ Animation
 ==
 
 * 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
-  <br>Tips：动画流畅， iOS7+    
+  <br>Tips：动画流畅， iOS7+
 * Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping))
 * [awesome-animation](https://github.com/Animatious/awesome-animation)
 * 转场动画 [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
@@ -69,7 +69,7 @@ Navigation
 * 左右滑动，抽屉导航 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)、[PKRevealController](https://github.com/pkluz/PKRevealController)、[ECSlidingViewController (iOS7+)](https://github.com/ECSlidingViewController/ECSlidingViewController)
 <br>Tips：其中ECSlidingViewController支持滑动特效，但左右拖时动会闪烁
 * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
-   
+
 
 Data
 ==
@@ -80,12 +80,12 @@ Data
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) 文件、文件夹的压缩和解压
 * [ZipArchive](https://github.com/mattconnolly/ZipArchive) zip文件操作
 * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
-* [BZDES](https://github.com/iOSCoderLin/BZDES): DES and 3DES
+* [BZDES](https://github.com/CodingPub/BZDES): DES and 3DES
 * SQLite: [fmdb](https://github.com/ccgus/fmdb)
 * Core Data: [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 * [RSA算法](https://github.com/reejosamuel/RSA)
 
-    
+
 Color
 ==
 
@@ -97,8 +97,8 @@ Bridge
 
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 * iOS-Lua [WaxPatch](https://github.com/mmin18/WaxPatch)、[WaxPatch_X64](https://github.com/maxfong/WaxPatch_X64)
- 
- 
+
+
 Mark
 ==
 
@@ -121,8 +121,8 @@ Other
 ==
 
 * LLDB 调试命令 [chisel](https://github.com/facebook/chisel)
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/iOSCoderLin/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
-* [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) 
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/CodingPub/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
+* [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)
 * [Markdown语法](https://github.com/guodongxiaren/README)
-    
-   
+
+
