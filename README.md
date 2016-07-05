@@ -29,7 +29,7 @@ Base
     * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
 * 操作 NSLayoutConstraints [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
-
+* [Aspects](https://github.com/steipete/Aspects) 支持AOP面向切面编程，Hook 方法
 
 UI
 ==
@@ -61,7 +61,8 @@ Animation
 * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
 * 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
 * 动画特效，支持StoryBoard配置 [Canvas](https://github.com/CanvasPod/Canvas)
-
+* 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView，Swift实现。
+* 展开按钮 [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton)
 
 Navigation
 ==
@@ -69,6 +70,7 @@ Navigation
 * 左右滑动，抽屉导航 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)、[PKRevealController](https://github.com/pkluz/PKRevealController)、[ECSlidingViewController (iOS7+)](https://github.com/ECSlidingViewController/ECSlidingViewController)
 <br>Tips：其中ECSlidingViewController支持滑动特效，但左右拖时动会闪烁
 * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
+* 类似trello的导航动效 [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)
 
 
 Data
@@ -102,12 +104,14 @@ Bridge
 Mark
 ==
 
+* [JSPatch](https://github.com/bang590/JSPatch) 实现 Objc 和 Js 交互，可以用于热更新、打补丁
 * AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
 * 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
 * 多重代理 [MultiDelegate](https://github.com/aleph7/MultiDelegate)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)、[LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton)
+* 应用内通知中心 [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)
 * 日历 [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView)、[FSCalendar](https://github.com/WenchaoIOS/FSCalendar)、[JTCalendar](https://github.com/jonathantribouharet/JTCalendar)
 * 统计图表 [PNChart](https://github.com/kevinzhow/PNChart)、[TWRCharts](https://github.com/chasseurmic/TWRCharts)、[ANDLineChartView](https://github.com/anaglik/ANDLineChartView)
 * 绘制Emoji [TTGEmojiRate](https://github.com/zekunyan/TTGEmojiRate)
@@ -124,6 +128,9 @@ Other
 * LLDB 调试命令 [chisel](https://github.com/facebook/chisel)
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods)、[Specs](https://github.com/CocoaPods/Specs)、[pod-template](https://github.com/CodingPub/pod-template)([官方模板](https://github.com/CocoaPods/pod-template))
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)
+* [nygard/class-dump](https://github.com/nygard/class-dump)、[0xced/class-dump](https://github.com/0xced/class-dump) 导出 App 的头文件
+* [Clutch](https://github.com/KJCracks/Clutch) App 解壳
+* [gogs](https://github.com/gogits/gogs) 局域网 git 仓库管理
 * [Markdown语法](https://github.com/guodongxiaren/README)
 
 
