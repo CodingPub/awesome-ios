@@ -104,6 +104,7 @@ Mark
 
 * AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
 * 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
+* 多重代理 [MultiDelegate](https://github.com/aleph7/MultiDelegate)
 * 图像处理 [GPUImage](https://github.com/BradLarson/GPUImage)
 * 音频播放 [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * 扁平化控件 [FlatUIKit](https://github.com/Grouper/FlatUIKit)、[LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton)
