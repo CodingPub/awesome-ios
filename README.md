@@ -36,8 +36,7 @@ UI
 
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
-* 提示框 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)、[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
-  <br>Tips：使用时整合，MB为主，增加单例
+* 提示框 [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)、[MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 * 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
 * 自定义弹框 [MMPopupView](https://github.com/adad184/MMPopupView)
 * 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
