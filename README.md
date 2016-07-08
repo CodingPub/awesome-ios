@@ -43,11 +43,10 @@ UI
 * 相册图片选取 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)、[DoImagePickerController](https://github.com/donobono/DoImagePickerController)
 * 空页面引导 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
 * 分页排列 酷炫视图切换 [iCarousel](https://github.com/nicklockwood/iCarousel)
-* 滚动文本(跑马灯) [Wonderful]([Wonderful](https://github.com/dsxNiubility/Wonderful))、[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+* 滚动文本(跑马灯) [Wonderful](https://github.com/dsxNiubility/Wonderful)、[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
 * [Emoji键盘](https://github.com/CodingPub/BZEmojiKeyboard)
 * UICollectionView 折叠菜单[CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)、瀑布流[DDCollectionViewFlowLayout](https://github.com/openboy2012/DDCollectionViewFlowLayout)
 * UITableviewcell 左右滑动扩展 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
-* 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
 * 消息数量指示器 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)
 
 Animation
@@ -97,14 +96,13 @@ Color
 Bridge
 ==
 
-* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+* [JSPatch](https://github.com/bang590/JSPatch) 实现 Objc 和 Js 交互，可以用于热更新、打补丁* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 * iOS-Lua [WaxPatch](https://github.com/mmin18/WaxPatch)、[WaxPatch_X64](https://github.com/maxfong/WaxPatch_X64)
 
 
 Mark
 ==
 
-* [JSPatch](https://github.com/bang590/JSPatch) 实现 Objc 和 Js 交互，可以用于热更新、打补丁
 * AppStore评价引导 [iRate](https://github.com/nicklockwood/iRate)、[appirater](https://github.com/arashpayan/appirater)
 * 一维码、二维码编码、解码 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)
 * 多重代理 [MultiDelegate](https://github.com/aleph7/MultiDelegate)
@@ -120,7 +118,7 @@ Mark
 * WebSocket [SocketRocket](https://github.com/square/SocketRocket)
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
-
+* 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
 
 Other
 ==
