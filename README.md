@@ -96,7 +96,8 @@ Color
 Bridge
 ==
 
-* [JSPatch](https://github.com/bang590/JSPatch) 实现 Objc 和 Js 交互，可以用于热更新、打补丁* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+* [JSPatch](https://github.com/bang590/JSPatch) 实现 Objc 和 Js 交互，可以用于热更新、打补丁
+* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 * iOS-Lua [WaxPatch](https://github.com/mmin18/WaxPatch)、[WaxPatch_X64](https://github.com/maxfong/WaxPatch_X64)
 
 
