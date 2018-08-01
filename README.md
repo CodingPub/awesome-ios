@@ -80,7 +80,6 @@ Data
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) 文件、文件夹的压缩和解压
 * [ZipArchive](https://github.com/mattconnolly/ZipArchive) zip文件操作
 * [CocoaSecurity](https://github.com/kelp404/CocoaSecurity): It provides AES encrypt, AES decrypt, Hash(MD5, HmacMD5, SHA1~SHA512, HmacSHA1~HmacSHA512) messages.
-* [BZDES](https://github.com/CodingPub/BZDES): DES and 3DES
 * SQLite: [fmdb](https://github.com/ccgus/fmdb)
 * Core Data: [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 * [RSA算法](https://github.com/reejosamuel/RSA)
