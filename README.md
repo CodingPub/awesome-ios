@@ -30,6 +30,7 @@ Base
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * [Aspects](https://github.com/steipete/Aspects) 支持AOP面向切面编程，Hook 方法
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
+* [KVOController](https://github.com/facebook/KVOController)
 
 UI
 ==
