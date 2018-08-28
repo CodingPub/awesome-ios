@@ -75,6 +75,7 @@ Navigation
 Data
 ==
 
+* [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) 
 * [Base64](https://github.com/nicklockwood/Base64)
 * [GZIP](https://github.com/nicklockwood/GZIP)、[Godzippa](https://github.com/mattt/Godzippa)(gzip备用)
   Tips: GZIP和Godzippa都不支持文件夹处理
