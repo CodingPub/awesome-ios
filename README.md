@@ -86,7 +86,6 @@ Data
 * Core Data: [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 * [RSA算法](https://github.com/reejosamuel/RSA)
 
-
 Color
 ==
 
@@ -118,6 +117,11 @@ Mark
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
 * 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
+
+性能优化
+==
+
+* 内存检测 [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS)
 
 Other
 ==
