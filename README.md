@@ -54,7 +54,7 @@ Animation
 
 * 全屏幕拖动返回导航 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
   <br>Tips：动画流畅， iOS7+
-* Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping))
+* Facebook动画库 [pop](https://github.com/facebook/pop) ([popping](https://github.com/schneiderandre/popping), [AGGeometryKit-POP](https://github.com/agens-no/AGGeometryKit-POP))
 * [awesome-animation](https://github.com/Animatious/awesome-animation)
 * 转场动画 [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
 * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
