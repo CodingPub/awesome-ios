@@ -70,7 +70,7 @@ Navigation
 <br>Tips：其中ECSlidingViewController支持滑动特效，但左右拖时动会闪烁
 * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
 * 类似trello的导航动效 [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)
-
+* 高斯模糊效果 [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
 
 Data
 ==
