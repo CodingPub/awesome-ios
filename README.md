@@ -37,6 +37,7 @@ UI
 
 * 下拉刷新，上拉加载更多 [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * 富文本 [YYText](https://github.com/ibireme/YYText)、[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
+* 图文混排 [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)
 * 提示框 [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)、[MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 * 自定义Switch [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch)
 * 自定义弹框 [MMPopupView](https://github.com/adad184/MMPopupView)
