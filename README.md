@@ -23,13 +23,12 @@ Base
 * 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
-* 模型解析
-    * [YYModel](https://github.com/ibireme/YYModel): 线程安全
-    * [MJExtension](https://github.com/CoderMJLee/MJExtension): 多线程调用易崩溃
+* 模型解析 [YYModel](https://github.com/ibireme/YYMode）（线程安全）
 * 操作 NSLayoutConstraints [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[Masonry](https://github.com/SnapKit/Masonry)、[SnapKit](https://github.com/SnapKit/SnapKit)
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * [Aspects](https://github.com/steipete/Aspects) 支持AOP面向切面编程，Hook 方法
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
+* 线程优化 [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool)
 * [KVOController](https://github.com/facebook/KVOController)
 
 UI
