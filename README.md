@@ -69,6 +69,7 @@ Navigation
 * 仿QQ首页左右滑动 [RESideMenu](https://github.com/romaonthego/RESideMenu)
 * 类似trello的导航动效 [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)
 * 高斯模糊效果 [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
+* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
 
 Data
 ==
