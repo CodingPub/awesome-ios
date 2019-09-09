@@ -24,8 +24,7 @@ Base
 * Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
 * 模型解析 [YYModel](https://github.com/ibireme/YYMode)（线程安全）
-* 操作 NSLayoutConstraints [
-Masonry](https://github.com/SnapKit/Masonry)、[TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends)、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[SnapKit](https://github.com/SnapKit/SnapKit)
+* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)([TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends))、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[SnapKit](https://github.com/SnapKit/SnapKit)
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * [Aspects](https://github.com/steipete/Aspects) 支持AOP面向切面编程，Hook 方法
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
