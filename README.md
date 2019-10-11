@@ -18,10 +18,8 @@ Base
 
 * 分级日志 [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
 * 图片缓存 [SDWebImage](https://github.com/rs/SDWebImage)
-* 自动计算UITableViewCell高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
-  <br>Tips：iOS6使用UITableView-FDTemplateLayoutCell时，多行label需要设置preferredMaxLayoutWidth
-* 实现隐藏View时自动折叠相关布局属性 [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
-* Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
+* 自动计算高度 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)、[TMCollectionViewTemplate](https://github.com/Tovema-iOS/TMCollectionViewTemplate)
+* 隐藏View时自动折叠相关布局属性 [TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends)、[UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
 * 模型解析 [YYModel](https://github.com/ibireme/YYMode)（线程安全）
 * 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)([TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends))、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[SnapKit](https://github.com/SnapKit/SnapKit)
@@ -117,6 +115,7 @@ Mark
 * [OpenUDID](https://github.com/ylechelle/OpenUDID)
 * UIView 异步加载 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
 * 聊天界面 [Atlas-iOS](https://github.com/layerhq/Atlas-iOS)、[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
+* Nib子视图 [XXNibBridge](https://github.com/sunnyxx/XXNibBridge)
 
 性能优化
 ==
