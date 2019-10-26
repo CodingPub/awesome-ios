@@ -7,11 +7,7 @@ Blog
 * iOS/Mac开发博客 [dev-blog](https://github.com/nixzhu/dev-blog)、[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
 * iOS优化实践 [objc中国](http://objccn.io/)([github](https://github.com/objccn/articles))、[ios-good-practices](https://github.com/futurice/ios-good-practices)
 * [iOS 开发者文档中文版](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
-* [Swfit中文教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
-* 常用库
-   * iOS: [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)
-   * Swift: [awesome-swift](https://github.com/matteocrippa/awesome-swift)
-
+* 常用库 [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)、[awesome-ios](https://github.com/vsouza/awesome-ios)
 
 Base
 ==
@@ -22,7 +18,7 @@ Base
 * 隐藏View时自动折叠相关布局属性 [TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends)、[UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 * 网络库 [AFNetworking](https://github.com/AFNetworking/AFNetworking)、[ASI](https://github.com/pokeb/asi-http-request)
 * 模型解析 [YYModel](https://github.com/ibireme/YYMode)（线程安全）
-* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)([TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends))、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)、[SnapKit](https://github.com/SnapKit/SnapKit)
+* 操作 NSLayoutConstraints [Masonry](https://github.com/SnapKit/Masonry)([TMMasonryExtends](https://github.com/Tovema-iOS/TMMasonryExtends))、[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
 * [YYKit](https://github.com/ibireme/YYKit) 是一组庞大、功能丰富的 iOS 组件
 * [Aspects](https://github.com/steipete/Aspects) 支持AOP面向切面编程，Hook 方法
 * block扩展 [BlocksKit](https://github.com/zwaldowski/BlocksKit)
