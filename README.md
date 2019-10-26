@@ -53,7 +53,6 @@ Animation
 * 灌水动画 [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)
 * 闪光特效 [Shimmer](https://github.com/facebook/Shimmer)
 * 动画特效，支持StoryBoard配置 [Canvas](https://github.com/CanvasPod/Canvas)
-* 卡片动画 [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)，基于UICollectionView，Swift实现。
 * 展开按钮 [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton)
 
 Navigation
